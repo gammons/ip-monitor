@@ -7,9 +7,8 @@ require 'byebug'
 
 DOMAINS_TO_UPDATE = [
   'minecraft.grant.dev.',
-  'birdcam.grant.dev.',
-  'birdcam-cam.grant.dev.',
-  'local.grant.dev.'
+  'local.grant.dev.',
+  'truelist-api-stag.grant.dev'
 ]
 
 ZONES = [
